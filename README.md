@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Engineering, Machine learning and Cyber Security
 - 📫 How to reach me @stk7890
 - 😄 Pronouns: Say Khar
-- ⚡ Fun fact: sports, comics and outdoor nature!
+- ⚡ Fun fact: sports, comics, and outdoor nature!
 
 <!---
 stk7890/stk7890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
